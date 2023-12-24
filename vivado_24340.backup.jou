@@ -1,0 +1,32 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Mon Dec  4 00:35:25 2023
+# Process ID: 24340
+# Current directory: D:/Facultate/APM/Vivado Projects/Laborator_2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15400 D:\Facultate\APM\Vivado Projects\Laborator_2\Laborator_2.xpr
+# Log file: D:/Facultate/APM/Vivado Projects/Laborator_2/vivado.log
+# Journal file: D:/Facultate/APM/Vivado Projects/Laborator_2\vivado.jou
+# Running On: DESKTOP-NU5I9ND, OS: Windows, CPU Frequency: 1996 MHz, CPU Physical cores: 16, Host memory: 16475 MB
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+source RISC_V_TB.tcl
+close_sim
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+launch_simulation
+source RISC_V_TB.tcl
+close_sim
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+launch_simulation
+source RISC_V_TB.tcl
+close_sim
+launch_simulation
+source RISC_V_TB.tcl
+close_sim

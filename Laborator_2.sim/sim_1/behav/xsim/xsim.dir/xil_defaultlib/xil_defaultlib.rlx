@@ -1,0 +1,16 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.srcs/sim_1/new/test_riscv_stud.v,1699361089,verilog,,,,RISC_V_TB,,,,,,,,
+D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.srcs/sources_1/new/ID.v,1701689789,verilog,,D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.srcs/sources_1/new/IF.v,,ID,,,,,,,,
+D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.srcs/sources_1/new/IF.v,1701689205,verilog,,D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.srcs/sources_1/new/PC.v,,IF,,,,,,,,
+D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.srcs/sources_1/new/PC.v,1701689020,verilog,,D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.srcs/sources_1/new/RISC_V_IF_ID.v,,PC,,,,,,,,
+D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.srcs/sources_1/new/RISC_V_IF_ID.v,1701645402,verilog,,D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.srcs/sources_1/new/adder.v,,RISC_V_IF_ID,,,,,,,,
+D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.srcs/sources_1/new/adder.v,1701689014,verilog,,D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.srcs/sources_1/new/imm_gen.v,,adder,,,,,,,,
+D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.srcs/sources_1/new/imm_gen.v,1701689973,verilog,,D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.srcs/sources_1/new/instruction_memory.v,,imm_gen,,,,,,,,
+D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.srcs/sources_1/new/instruction_memory.v,1701689017,verilog,,D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.srcs/sources_1/new/mux2_1.v,,instruction_memory,,,,,,,,
+D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.srcs/sources_1/new/mux2_1.v,1698756851,verilog,,D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.srcs/sources_1/new/pipeline.v,,mux2_1,,,,,,,,
+,,,,D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.srcs/sources_1/new/registers.v,,pipeline,,,,,,,,
+D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.srcs/sources_1/new/registers.v,1699359221,verilog,,D:/Facultate/APM/Vivado Projects/Laborator_2/Laborator_2.srcs/sim_1/new/test_riscv_stud.v,,registers,,,,,,,,

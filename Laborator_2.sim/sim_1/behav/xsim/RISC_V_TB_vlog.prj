@@ -1,0 +1,19 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Laborator_2.srcs/sources_1/new/ID.v" \
+"../../../../Laborator_2.srcs/sources_1/new/IF.v" \
+"../../../../Laborator_2.srcs/sources_1/new/PC.v" \
+"../../../../Laborator_2.srcs/sources_1/new/RISC_V_IF_ID.v" \
+"../../../../Laborator_2.srcs/sources_1/new/adder.v" \
+"../../../../Laborator_2.srcs/sources_1/new/imm_gen.v" \
+"../../../../Laborator_2.srcs/sources_1/new/instruction_memory.v" \
+"../../../../Laborator_2.srcs/sources_1/new/mux2_1.v" \
+"../../../../Laborator_2.srcs/sources_1/new/pipeline.v" \
+"../../../../Laborator_2.srcs/sources_1/new/registers.v" \
+"../../../../Laborator_2.srcs/sim_1/new/test_riscv_stud.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
